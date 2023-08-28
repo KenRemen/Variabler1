@@ -4,15 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ef8059-356f-4541-b848-0e9c60632b16" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Variabler1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oppgave1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oppgave2.java" afterDir="false" />
+    <list default="true" id="51ef8059-356f-4541-b848-0e9c60632b16" name="Changes" comment="1.0">
+      <change afterPath="$PROJECT_DIR$/src/Oppgave3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oppgave4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Oppgave5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +47,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Oppgave2">
+  <component name="RunManager" selected="Application.Oppgave5">
     <configuration name="Oppgave1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oppgave1" />
       <module name="Variabler1" />
@@ -66,8 +62,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Oppgave3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oppgave3" />
+      <module name="Variabler1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oppgave4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oppgave4" />
+      <module name="Variabler1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Oppgave5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Oppgave5" />
+      <module name="Variabler1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Oppgave5" />
+        <item itemvalue="Application.Oppgave4" />
+        <item itemvalue="Application.Oppgave3" />
         <item itemvalue="Application.Oppgave2" />
         <item itemvalue="Application.Oppgave1" />
       </list>
@@ -81,11 +101,26 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693220800069</updated>
-      <workItem from="1693220801117" duration="3405000" />
+      <workItem from="1693220801117" duration="6514000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
   </component>
 </project>
