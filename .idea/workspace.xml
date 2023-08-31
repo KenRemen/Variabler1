@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ef8059-356f-4541-b848-0e9c60632b16" name="Changes" comment="1.1">
-      <change afterPath="$PROJECT_DIR$/src/utsagnslogikk.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oppgave5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oppgave5.java" afterDir="false" />
-    </list>
+    <list default="true" id="51ef8059-356f-4541-b848-0e9c60632b16" name="Changes" comment="1.2" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,12 +20,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory">{
-  &quot;lastFilter&quot;: {
-    &quot;state&quot;: &quot;OPEN&quot;,
-    &quot;assignee&quot;: &quot;kerem9811&quot;
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
   }
-}</component>
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -118,7 +112,7 @@
       <updated>1693220800069</updated>
       <workItem from="1693220801117" duration="12124000" />
       <workItem from="1693380908341" duration="4118000" />
-      <workItem from="1693478568251" duration="414000" />
+      <workItem from="1693478568251" duration="578000" />
     </task>
     <task id="LOCAL−00001" summary="1.1">
       <option name="closed" value="true" />
@@ -127,7 +121,14 @@
       <option name="presentableId" value="LOCAL−00001" />
       <updated>1693228155702</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL−00002" summary="1.2">
+      <option name="closed" value="true" />
+      <created>1693479045856</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1693479045856</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +148,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0" />
     <MESSAGE value="1.1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.1" />
+    <MESSAGE value="1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.2" />
   </component>
 </project>
