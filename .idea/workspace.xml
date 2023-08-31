@@ -4,11 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="51ef8059-356f-4541-b848-0e9c60632b16" name="Changes" comment="1.0">
-      <change afterPath="$PROJECT_DIR$/src/Oppgave3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oppgave4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Oppgave5.java" afterDir="false" />
+    <list default="true" id="51ef8059-356f-4541-b848-0e9c60632b16" name="Changes" comment="1.1">
+      <change afterPath="$PROJECT_DIR$/src/utsagnslogikk.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Oppgave5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Oppgave5.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,9 +24,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;kerem9811&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="af98064c-6f84-4aa8-b743-43b09e1c7864" />
+        <option name="url" value="https://github.com/KenRemen/Variabler1.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2UburEMyFMLgdqh35E3XaDVFiQV" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -40,21 +53,17 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/k1sso/IdeaProjects/Variabler1/src/utsagnslogikk.java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.excludes",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager" selected="Application.Oppgave5">
-    <configuration name="Oppgave1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Oppgave1" />
-      <module name="Variabler1" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Oppgave2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Oppgave2" />
       <module name="Variabler1" />
@@ -83,13 +92,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="Application.utsagnslogikk" />
+      <item itemvalue="Application.Oppgave2" />
+      <item itemvalue="Application.Oppgave3" />
+      <item itemvalue="Application.Oppgave4" />
+      <item itemvalue="Application.Oppgave5" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.Oppgave5" />
         <item itemvalue="Application.Oppgave4" />
         <item itemvalue="Application.Oppgave3" />
         <item itemvalue="Application.Oppgave2" />
-        <item itemvalue="Application.Oppgave1" />
       </list>
     </recent_temporary>
   </component>
@@ -101,8 +116,18 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1693220800069</updated>
-      <workItem from="1693220801117" duration="6514000" />
+      <workItem from="1693220801117" duration="12124000" />
+      <workItem from="1693380908341" duration="4118000" />
+      <workItem from="1693478568251" duration="414000" />
     </task>
+    <task id="LOCAL−00001" summary="1.1">
+      <option name="closed" value="true" />
+      <created>1693228155702</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1693228155702</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,6 +146,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.0" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.0" />
+    <MESSAGE value="1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.1" />
   </component>
 </project>

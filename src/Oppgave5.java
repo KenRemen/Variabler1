@@ -2,7 +2,8 @@ import javax.swing.JOptionPane;
 
 public class Oppgave5
 {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         String fornavn;
         fornavn = JOptionPane.showInputDialog("Hva er fornavnet ditt?");
 
@@ -22,7 +23,7 @@ public class Oppgave5
         poststed = JOptionPane.showInputDialog("Hva er poststedet der du bor?");
 
         String utskrift;
-        utskrift = "Navn: " + fornavn + etternavn + "Adresse: " + adresse + "Postnummer: " + postnummer + "Poststed: " + poststed + "Alder: " + alder + ".";
+        utskrift = "Navn: " + fornavn + ' ' + etternavn + "\n" + "Adresse: " + adresse + "\n" + "Postnummer: " + postnummer + "\n" + "Poststed: " + poststed + "\n" + "Alder: " + alder;
 
         //fornavn + " " + etternavn + " (" + alder + "), bor i " + adresse + ", " + postnummer + " " + poststed + ".";
 
@@ -33,5 +34,8 @@ public class Oppgave5
         //Alder : 21 år.
 
         System.out.println(utskrift);
+
+        JOptionPane.showMessageDialog(null, utskrift,
+                "Resultat", JOptionPane.PLAIN_MESSAGE);
     }
 }
